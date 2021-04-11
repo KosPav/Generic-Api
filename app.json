@@ -1,0 +1,28 @@
+{
+  "id": "0a994ab0-cc84-42ce-8907-241e9e1ed7b3",
+  "name": "Generic API",
+  "publisher": "Global Mediator",
+  "version": "1.0.0.19",
+  "brief": "Generic API 2",
+  "description": "Generic API 2",
+  "privacyStatement": "https://GenericAPI.com/help/",
+  "EULA": "https://GenericAPI.com/help/",
+  "help": "https://GenericAPI.com/help/",
+  "url": "https://GenericAPI.com/help/",
+  "logo": "test.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 70900,
+      "to": 70920
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://GenericAPI.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0",
+  "features": ["TranslationFile"],
+  "target": "Cloud"
+}

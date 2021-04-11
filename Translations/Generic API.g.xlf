@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Generic API">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1513457022 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Meta UI API Log Message KOP</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Meta UI API Log Message KOP - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1513457022 - Field 2166181827 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Content</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Meta UI API Log Message KOP - Field Content - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1513457022 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Meta UI API Log Message KOP - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2379750009 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Meta UI Generic API Header - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2379750009 - Field 450009889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Laguage ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Meta UI Generic API Header - Field Language ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2379750009 - Field 2897660500 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Meta UI Generic API Header - Field Record ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2379750009 - Field 3135334477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Meta UI Generic API Header - Field Table ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2379750009 - Field 176562519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Meta UI Generic API Header - Field View - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 318860818 - Field 3070320983 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Meta UI Generic API Line - Field Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 318860818 - Field 3531868071 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Meta UI Generic API Line - Field Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 318860818 - Field 958223187 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Meta UI Generic API Line - Field Field Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 318860818 - Field 2897660500 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Meta UI Generic API Line - Field Record ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 508609661 - Field 450009889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Language ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Meta UI Metadata Header - Field Language ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 508609661 - Field 2312473267 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Language ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Meta UI Metadata Header - Field Obsolate Reason - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 508609661 - Field 2601355134 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Language ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Meta UI Metadata Header - Field Obsolate State - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 508609661 - Field 1393533604 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Caption</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Meta UI Metadata Header - Field Table Caption - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 508609661 - Field 3135334477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Meta UI Metadata Header - Field Table ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 508609661 - Field 3808951907 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Caption</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Meta UI Metadata Header - Field Table Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3409659503 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Meta UI API Log Messages KOP</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Meta UI API Log Messages - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3409659503 - Control 883711285 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Entry No. field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Meta UI API Log Messages - Control Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3409659503 - Control 236394809 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Content field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Meta UI API Log Messages - Control FContent - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3409659503 - Action 2734486071 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Clear Log action</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Meta UI API Log Messages - Action ClearLog - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3409659503 - Action 2734486071 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Clear Log</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Meta UI API Log Messages - Action ClearLog - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 889396855 - Action 1532122962 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Auto Grand Consent</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Meta UI Customer - Action Meta UI Auto Grand Consent - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 889396855 - Action 1532122962 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Auto Grand Consent</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Meta UI Customer - Action Meta UI Auto Grand Consent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 889396855 - Action 1232112384 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Executes the View action</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Meta UI Customer - Action Meta UI View - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 889396855 - Action 1232112384 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>View</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Meta UI Customer - Action Meta UI View - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
